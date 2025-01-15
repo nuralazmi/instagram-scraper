@@ -4,7 +4,7 @@ namespace App\Http\Services;
 
 use Illuminate\Support\Facades\Http;
 
-class ScrapperService
+class ScraperService
 {
 
     /**

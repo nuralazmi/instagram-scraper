@@ -2,17 +2,17 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Services\ScrapperService;
+use App\Http\Services\ScraperService;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 
-class ScrapperController extends Controller
+class ScraperController extends Controller
 {
 
     /**
-     * @param ScrapperService $scrapper_service
+     * @param ScraperService $scrapper_service
      */
-    public function __construct(public ScrapperService $scrapper_service)
+    public function __construct(public ScraperService $scrapper_service)
     {
 
     }
