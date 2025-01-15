@@ -8,6 +8,6 @@ Instagram kullanıcı adı kişinin postlarını çeken api projesi
 
 ### Çalıştrma
 
-- git clone https://github.com/nuralazmi/instagram-scrapper.git
-- cd instagram-scrapper
+- git clone https://github.com/nuralazmi/instagram-scraper.git
+- cd instagram-scraper
 - docker-compose up
